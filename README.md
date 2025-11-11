@@ -131,17 +131,4 @@ A React + TypeScript application for restaurant menu management, built as part o
 - Category distribution
 - Average pricing
 
-## Installation & Setup
 
-```bash
-# Clone the repository
-git clone [your-repo-link]
-
-# Navigate to project directory
-cd chefs-menu
-
-# Install dependencies
-npm install
-
-# Start development server
-npm start
