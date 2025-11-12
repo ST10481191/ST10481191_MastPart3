@@ -3,7 +3,7 @@
 A React + TypeScript application for restaurant menu management, built as part of the final PoE submission.
 
 ## Youtube Video Demo
-[Add your video recording link here]
+https://youtu.be/syt6jfAaRR0?feature=shared
 
 ## Features
 
